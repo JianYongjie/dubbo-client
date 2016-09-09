@@ -1,5 +1,4 @@
 *.class
-
 # Package Files #
 *.jar
 *.war
@@ -13,4 +12,3 @@ classes
 lib
 /classes
 mvn-repos
-

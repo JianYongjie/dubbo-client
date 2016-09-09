@@ -1,0 +1,16 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.idea
+*.iml
+.DS_Store
+target
+.settings
+classes
+lib
+/classes
+mvn-repos
+
